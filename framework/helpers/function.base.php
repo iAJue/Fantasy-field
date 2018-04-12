@@ -63,7 +63,7 @@ function getFileExt($name){
  * 获取站点地址
  */
 function getWebUrl() {
-    return 'http' . (isset($_SERVER['HTTPS']) ? 's' : '') . "://{$_SERVER['HTTP_HOST']}" .  substr($_SERVER['SCRIPT_NAME'],0,strrpos($_SERVER['SCRIPT_NAME'],'/')+1);
+    return 'http' . (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on'  ? 's' : '') . "://{$_SERVER['HTTP_HOST']}" .  substr($_SERVER['SCRIPT_NAME'],0,strrpos($_SERVER['SCRIPT_NAME'],'/')+1);
 }
 
 /**
