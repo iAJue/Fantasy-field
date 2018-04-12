@@ -41,24 +41,24 @@ class Framework{
 
     // 路由处理
     private function route(){
-        if(preg_match('#^/([a-zA-Z0-9.]{25,})#',$_SERVER['REQUEST_URI'],$pid) && isset($pid[1])){
+        $m = isset($_GET['m']) ? $_GET['m'] : 'Home';// 模块
+        $c = isset($_GET['c']) ? $_GET['c'] : 'Index';// 控制器
+        $a = isset($_GET['a']) ? $_GET['a'] : 'IndexAction';// 方法
+        $suffix = '.html'; //伪静态后缀
+        $path = isset($_SERVER['PATH_INFO']) ? trim($_SERVER['PATH_INFO'],'/') : '';
+        if ($path == '') {
+            $path = isset($_SERVER['REQUEST_URI']) ? trim($_SERVER['REQUEST_URI'],'/') : '';
+            $str = $_SERVER['SCRIPT_NAME'];
+            if ($str !== '/index.php') {
+                $path =  trim(preg_replace('/'.trim(substr($str,0,strpos($str, '/index.php')),'/').'/','',$path),'/');
+            }
+        }
+        if(preg_match('#^/([a-zA-Z0-9.]{25,})#','/'.$path,$pid) && isset($pid[1])){
             $m = 'Home';
             $c = 'Index';
             $a = 'DetailsAction';
             $_GET['pid'] = $pid[1];
         }else{
-            $m = isset($_GET['m']) ? $_GET['m'] : 'Home';// 模块
-            $c = isset($_GET['c']) ? $_GET['c'] : 'Index';// 控制器
-    		$a = isset($_GET['a']) ? $_GET['a'] : 'IndexAction';// 方法
-            $suffix = '.html'; //伪静态后缀
-    		$path = isset($_SERVER['PATH_INFO']) ? trim($_SERVER['PATH_INFO'],'/') : '';
-            if ($path == '') {
-                $path = isset($_SERVER['REQUEST_URI']) ? trim($_SERVER['REQUEST_URI'],'/') : '';
-                $str = $_SERVER['SCRIPT_NAME'];
-                if ($str !== '/index.php') {
-                    $path =  trim(preg_replace('/'.trim(substr($str,0,strpos($str, '/index.php')),'/').'/','',$path),'/');
-                }
-            }
             $path = preg_replace('/'.$suffix.'/', '', $path, 1);
     		if ($path != '') {
                 $path = preg_replace('/[?,=,&]/', '/', $path);
