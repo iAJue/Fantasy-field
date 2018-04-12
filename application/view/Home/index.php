@@ -94,7 +94,7 @@
 			      <input type="text" placeholder="用户名" name="user" id="user"/>
 			      <input type="password" placeholder="密码" name="password" id="password"/>
 			      <input type="text" placeholder="验证码" name="verifycode" id="verifycode" style="width: 150px;float: left;">
-			      <img src="<?php echo PATH_URL;?>Home/User/MakeCaptcAction/" style="width: 110px;float: right;" title="刷新验证码" onclick="this.src='<?php echo PATH_URL;?>Home/User/MakeCaptcAction/?t='+Math.random();">
+			      <img src="<?php echo PATH_URL;?>Home/User/MakeCaptcAction/" style="width: 110px;float: right;" title="刷新验证码" onclick="this.src='<?php echo PATH_URL;?>Home/User/MakeCaptcAction?t='+Math.random();">
 			      <button id="login" type="submit" class="hwLayer-ok">登　录</button>
 			  	<?php if($register == 'y'):?>
 			      <p class="message msg">还没有账户? <a href="#">立刻创建</a></p>
