@@ -114,41 +114,11 @@ $config = "<?php return array(
 		<p>桥豆麻袋，你得先到后台配置一下基本信息才能使用en~en~</p>
         <p><b>用户名</b>：{$user}</p>
         <p><b>密 码</b>：您刚才设置的密码</p>";
-    	curl_get_https('https://img.52ecy.cn/service/record.php?url='.getWebUrl());
     if (!@unlink('./install.php')){
         $result .= '<p style="color:red;margin:10px 20px;">警告：请手动删除根目录下安装文件：install.php</p> ';
     }
     $result .= "<p style=\"text-align:right;\"><a href=\"./\">访问首页</a> | <a href=\"http://img.52ecy.cn\">官方首页</a></p>";
     Msg($result, 'no');
-}
-//不引函数库是有命名冲突，我懒的改
-/**
- * 使用get方式请求指定页面
- * @param  [type] $url [description]
- * @return [type]      [description]
- */
-function curl_get_https($url){
-    $curl = curl_init(); // 启动一个CURL会话
-    curl_setopt($curl, CURLOPT_URL, $url);
-    curl_setopt($curl, CURLOPT_HEADER, 0);
-    curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false); 
-    curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false); 
-    $tmpInfo = curl_exec($curl);
-    curl_close($curl);
-    return $tmpInfo;
-}
-/**
- * 获取站点地址
- */
-function getWebUrl() {
-
-	$http_type = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') || (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')) ? 'https://' : 'http://';   
-	$PHP_SELF=$_SERVER['SCRIPT_NAME'];
-
-	$url = $http_type . $_SERVER['SERVER_NAME'] . substr($PHP_SELF,0,strrpos($PHP_SELF,'/')+1);
-
-	return $url;
 }
 /** 错消息提示
  *  $msg  提示信息
