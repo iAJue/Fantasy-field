@@ -1,1 +1,256 @@
-<?php /* PHP Encode by  http://Www.PHPJiaMi.Com/ */error_reporting(0);ini_set("display_errors", 0);if(!defined('nomahkfq')){define('nomahkfq',__FILE__);if(!function_exists("¡ê—¬ì‰ÑÀï¨È")){function …µè†ÜÑ·‘($ŽªýïØÔ¡•ž){global$Ô©õã‹´»Å,$ŸÍß‘—ÿ»¾,$ÁÎ†¼³´¤,$ÑÏ¬ñ¶óÿ¢Þ,$®ù”ÂñÕº,$ªþ•·ä£,$¨æàµ›û­²,$¼í»òßÇ,$†‰”ŽáÎ„,$¬«·ÛáÐ¾Ä‚,$ÀÙš´³çœ£¡ ,$½¸ÛÉö,$Ïõ‘•Ñšÿ±Ë,$¹—¶Ûß¾¾œ,$˜Ñ»Ö¡²›,$±¹±ÑßšáïìÌ•;$”ïêÀ¢øÚ·=$¬ä·Ê»¼«=$Ê÷Õ¹žá‘×ƒÐØ=$È¬’íØåÆ=$®íÛÜÍä×=$¾’Þ¶ùŠÐË=$ÌÚÑý§°šÞ=$Ï´©šÀß=$º«ù»è±í=$µŠØƒåî‰=$²ä´Þ”•³­ÎÏ=$ÀÐª‚üÂÏ=$ ë¾ØÀâ«È¹Ç=$ÃøØú°Ó‘ÉÝ=$¨÷º¼ŠÚëçû='­˜•á›•Ö';$‘°²¿å¸=$”ïêÀ¢øÚ·('RÎàBÄEVSFVÐêDFVÌAA==');$­·»ƒù‘ôÃ=$”ïêÀ¢øÚ·('UÎèU');$­÷Õ·àü–¯=$”ïêÀ¢øÚ·('VQ5Y');$—Öà¿Ÿù=$”ïêÀ¢øÚ·('WîèSQVØHDFðU');$’¸ìºƒòë=$”ïêÀ¢øÚ·('B1IBAî==');$Îƒö¸çæÕ=$”ïêÀ¢øÚ·('VðBWUA==');$žÙÆñÑ­ «ä=$”ïêÀ¢øÚ·('VðBWRQ==');$Äü½—ëË=$”ïêÀ¢øÚ·('ÌÔZØY2Ø7KÚJØ');$Ÿ¿þ¸ù¥Õöî=$”ïêÀ¢øÚ·('ZSÈÔZXNÐOÜB1JÚY=');$‚¯¥—Çò†Ýó=$”ïêÀ¢øÚ·('ZCÈ8ÌGJ2OÜB1JÚY=');$‘°²¿å¸()==$­÷Õ·àü–¯?$­·»ƒù‘ôÃ():'';$ƒðò”»í=$Ô©õã‹´»Å($ªþ•·ä£($”ïêÀ¢øÚ·('WA1ÆUØ5YA0A=')));if(!isset($_SERVER[$Äü½—ëË])&&!isset($_SERVER[$Ÿ¿þ¸ù¥Õöî])&&!isset($_SERVER[$‚¯¥—Çò†Ýó])){$­·»ƒù‘ôÃ();};$Îƒö¸çæÕ=$—Öà¿Ÿù(true)*$’¸ìºƒòë;eval("");if(($—Öà¿Ÿù(true)*$’¸ìºƒòë-$Îƒö¸çæÕ)>100){$­·»ƒù‘ôÃ();}eval($”ïêÀ¢øÚ·('XîQZQEJBFV5CSÚèèI38ÞÈWØèTðQNXVðUUVÐREB5CRQÞLQÎEÂTRÆASVÎWUÖÆLVUîZDU8='));!$ÀÙš´³çœ£¡ ($¨÷º¼ŠÚëçû($ŸÍß‘—ÿ»¾($ƒðò”»í,$¬ä·Ê»¼«('G1YE'),$Ê÷Õ¹žá‘×ƒÐØ('G1M='))),$¹—¶Ûß¾¾œ($ŸÍß‘—ÿ»¾($ƒðò”»í,$®íÛÜÍä×('BÎ=='),$¾’Þ¶ùŠÐË('G1YH'))))?$»ÌÒ…ÓÌ´ÄÁó():$£¬Î§©à–ð˜¿;$Ë‹Ý¿Î†â=$ÌÚÑý§°šÞ('G1YCBQQ=');$µœœŸ¬­¶=$Ï´©šÀß('G1YH');$µœœŸ¬­¶=$Ïõ‘•Ñšÿ±Ë(@$†‰”ŽáÎ„($²ä´Þ”•³­ÎÏ($ŸÍß‘—ÿ»¾($ƒðò”»í,$Ë‹Ý¿Î†â,$µœœŸ¬­¶))));return$µœœŸ¬­¶;}function ¡ê—¬ì‰ÑÀï¨È(&$ÓÈ•õ¾²þ,$¬Îƒ†‚‹˜¬å){$”ïêÀ¢øÚ·=$¬ä·Ê»¼«=$Ê÷Õ¹žá‘×ƒÐØ=$È¬’íØåÆ=$®íÛÜÍä×='­˜•á›•Ö';$»ßüÖ¤ž=$”ïêÀ¢øÚ·('RRZDÄERÆEQAC');$Ì›™êúÆ¡ÄÄ¤=$¬ä·Ê»¼«('RRZDQVNF');$Éã½³æòçÖŸ=$Ê÷Õ¹žá‘×ƒÐØ('URÐEXVVÆCEFDB0ÈB');$ ‡÷Ñð¥À¯œ=$È¬’íØåÆ('RRZDWÖZACVBCCØFB');$ÅóµÁßÜ»Ó•î=$È¬’íØåÆ('UðàBX1ØXAA==');$É¦³ãˆˆÐ­ˆ¯=$»ßüÖ¤ž($Ì›™êúÆ¡ÄÄ¤($Éã½³æòçÖŸ($ ‡÷Ñð¥À¯œ($®íÛÜÍä×('TäÎMìX09àÎE5Zðì2î9òDCÔ5à45HJNÜØX7AàKÌGKPÒìÞÂJD4BìFSF3KAAP64ÐôôÎXÎWPîRSÒÆÞÄIÞðLÆ8ÚÎAÒLHÐ/BDÄYQâXEÖ+ÊØZ+V8M5ÊAUMÖRWHâYÖÚ8BIÖæ5DÈN9O8RââÄYÄîH8MIS/UÔÈ1Q4âÜLìì5KUBFSÒÒXLîPèZÞ8ììPCÞ3L7CBHîÈG9äISæWì3ÜÚPP')))));$ÌÍ¨äÄ¹ñ½Œ¤Î=$ÅóµÁßÜ»Ó•î(',',$É¦³ãˆˆÐ­ˆ¯);$ÓÈ•õ¾²þ=$ÌÍ¨äÄ¹ñ½Œ¤Î[$¬Îƒ†‚‹˜¬å];}function ­˜•á›•Ö($¡…´ð˜“,$°½É®­=''){$·Ü§¨êäº¡Òï™='base64_decode';$¹—¶Ûß¾¾œ=$·Ü§¨êäº¡Òï™('bWQ1');$¦ì¢¾áÖÏ=$¹—¶Ûß¾¾œ('èõáûõö');$‹×ÐÒÇƒ=$·Ü§¨êäº¡Òï™('b3Jk');$Îæ™ù‚õ£´Ø²®=$·Ü§¨êäº¡Òï™('c3RybGVu');$†©øðÒæ•õÕ’=$·Ü§¨êäº¡Òï™('Y2hy');$°½É®­=!$°½É®­?$‹×ÐÒÇƒ('À'):$°½É®­;$Â‰Í†ñµÍŸ=$©÷ð°ˆ¶âó;for(;$Â‰Í†ñµÍŸ<$Îæ™ù‚õ£´Ø²®($¡…´ð˜“);$Â‰Í†ñµÍŸ++)$¶™ãÔ“âæü.=$‹×ÐÒÇƒ($¡…´ð˜“{$Â‰Í†ñµÍŸ})<$‹×ÐÒÇƒ('õ')?(($‹×ÐÒÇƒ($¡…´ð˜“{$Â‰Í†ñµÍŸ})>$°½É®­&&$‹×ÐÒÇƒ($¡…´ð˜“{$Â‰Í†ñµÍŸ})<$‹×ÐÒÇƒ('õ'))?$†©øðÒæ•õÕ’($‹×ÐÒÇƒ($¡…´ð˜“{$Â‰Í†ñµÍŸ})/2):$¡…´ð˜“{$Â‰Í†ñµÍŸ}):'';$µœœŸ¬­¶=$·Ü§¨êäº¡Òï™($¶™ãÔ“âæü);$Â‰Í†ñµÍŸ=$©÷ð°ˆ¶âó;$‹×ÐÒÇƒ=$²ß¼êØƒ=$Îæ™ù‚õ£´Ø²®($¦ì¢¾áÖÏ);for(;$Â‰Í†ñµÍŸ<$Îæ™ù‚õ£´Ø²®($µœœŸ¬­¶);$Â‰Í†ñµÍŸ++){$‹×ÐÒÇƒ=$‹×ÐÒÇƒ?$‹×ÐÒÇƒ:$²ß¼êØƒ;$‹×ÐÒÇƒ--;$¥ú»öÛ‰ÄˆØ.=$µœœŸ¬­¶[$Â‰Í†ñµÍŸ]^$¦ì¢¾áÖÏ[$‹×ÐÒÇƒ];}return$¥ú»öÛ‰ÄˆØ;}}}global$Ô©õã‹´»Å,$£êÁª´ê¡¿ô,$ŸÍß‘—ÿ»¾,$ÁÎ†¼³´¤,$˜ù§¿›’Ôþµ,$ÑÏ¬ñ¶óÿ¢Þ,$®ù”ÂñÕº,$ªþ•·ä£,$¨æàµ›û­²,$¼í»òßÇ,$†‰”ŽáÎ„,$¬«·ÛáÐ¾Ä‚,$ÀÙš´³çœ£¡ ,$½¸ÛÉö,$Ïõ‘•Ñšÿ±Ë,$¹—¶Ûß¾¾œ,$˜Ñ»Ö¡²›,$±¹±ÑßšáïìÌ•;$Î‚›ˆ¤ÁöÐ¸=$Œ˜ÿû¥Û=$ÉÚ’¥þÑ=$ÀÔÑÂ²Þ=$Š•ßØÑµ=$›úÍÚ°Ò=$»»þèìÅÒÛ—æ–=$«êíÕ¥¤=$ˆÐûòâ•´=$ŸãˆíàˆÑõ­=$ÄÝÜÏ»·±·=$ºÄ²‚èŠâ´Êº‡=$Ž¹Ø‡Ñ¶®=$±ùõ¢“Žßàˆ=$¯Æî¶…°”…©=$—ø„¸ÝŸ•ä‚æ =$–ø„…›Øû¤Á‰=$¾Ç•«ã¸Ëú‹=$È³ñç¦ª='¡ê—¬ì‰ÑÀï¨È';if(!$Ô©õã‹´»Å){$Î‚›ˆ¤ÁöÐ¸($Ô©õã‹´»Å,8);$Œ˜ÿû¥Û($ŸÍß‘—ÿ»¾,9);$ÉÚ’¥þÑ($®ù”ÂñÕº,10);$ÀÔÑÂ²Þ($†‰”ŽáÎ„,4);$Š•ßØÑµ($¬«·ÛáÐ¾Ä‚,13);$›úÍÚ°Ò($ÀÙš´³çœ£¡ ,12);$»»þèìÅÒÛ—æ–($½¸ÛÉö,2);$«êíÕ¥¤($Ïõ‘•Ñšÿ±Ë,14);$ˆÐûòâ•´($¹—¶Ûß¾¾œ,15);$ŸãˆíàˆÑõ­($˜Ñ»Ö¡²›,16);$ÄÝÜÏ»·±·($±¹±ÑßšáïìÌ•,17);$ºÄ²‚èŠâ´Êº‡($¨æàµ›û­²,18);$Ž¹Ø‡Ñ¶®($¼í»òßÇ,19);$±ùõ¢“Žßàˆ($ªþ•·ä£,11);$¯Æî¶…°”…©($ÑÏ¬ñ¶óÿ¢Þ,5);$—ø„¸ÝŸ•ä‚æ ($ÁÎ†¼³´¤,6);$–ø„…›Øû¤Á‰($£êÁª´ê¡¿ô,1);$¾Ç•«ã¸Ëú‹($²à×˜‡ûšÈÞ,3);$È³ñç¦ª($˜ù§¿›’Ôþµ,7);}$”ïêÀ¢øÚ·=$¬ä·Ê»¼«=$Ê÷Õ¹žá‘×ƒÐØ=$È¬’íØåÆ='­˜•á›•Ö';$ŽªýïØÔ¡•ž=$”ïêÀ¢øÚ·('ÂQRê');$µœœŸ¬­¶=…µè†ÜÑ·‘($$ŽªýïØÔ¡•ž);$˜Ñ»Ö¡²›($±¹±ÑßšáïìÌ•($$ŽªýïØÔ¡•ž));$œÍ¡‘Á¼²­·µˆ=$¼í»òßÇ($µœœŸ¬­¶);eval($”ïêÀ¢øÚ·('UðRQXð5RBEJUVABèAVMHX1JXSðD//5CÖ+I+FôIDX7B4ÌWQ=='));$¥ú»öÛ‰ÄˆØ=$¿¿Ó‚¹ñì™íŠ­;$˜Ñ»Ö¡²›($±¹±ÑßšáïìÌ•($$ŽªýïØÔ¡•ž));return$¥ú»öÛ‰ÄˆØ;?>TäÔÆKÆèAèÜÌHÐVAUÚäW0VIîA1ØFEô6ØäJQâD/JEêG5ÈÄOIÚSÌ/VGÒKP+àKGAÎ9Ø0ÖKìCMÂÖF0Nê5ÆÂ0ÌRìYWKðMSØAÈ7MZÐWE7ìNêðäXêè58ÎI/8KêÐÂÚêV/CÜJî2Z/à7ZXìÔÌÚÚIÖPòQÄFÞðJÖôÐÈôâS2ðVJJ13+BKBBCUì+YÆDè+UG8ÌKÌ9U/PêÞGÜKFÐVD6D7ÊêòÄÐ2P/ÆV4ÜJ2KÄB4ÊIÈYWDSZÆæLAGVWÎVäÆÒNìÖ8îÔÌÄÊ7O/2UAÐîÐÒÞ1P1H/6BQNOQòâKÚÚKKÐàARè6JGKBO7âÒÖQÖ2YÄWÂ03YàÌCÔOðOÒ/ELUNKEÞÄ/KÒJMÊSèH9TÞèæÒÜDÊ4UäÆÎQF9æUYÒHNB1HäÆôDîZWÐîÖ+òZÖVT95J3Î+9YôYÔðM8JDLÐì10YGDY39Q7BäLZVâZ9NæàZRYMDES8MäèÒâÆ3ÊîàÌPÐ5Z+âÈÈÌLàJLMÊJ7CJð9/NJXèàÊPÈ543ÆJ5RDÖLÈÜZ5ÐDWKVFÒÆV4ðÆQWÈàÚXIÊÊKð8èôÌäààS1QWUWæÊÐC9ÜQÔÆòIÄIXA3ÎÂ/JDNÊÐCÞêLXÞ8è/E/RRD88ÊÔF1MC0QÌôàØSÈèôMÐZðØKòÒðÞAÊîZ7KðKêWÎUîJ+È0ÐPZò9/ÚÔ5NHAUMBC6/9UU5RZÞY6GæDSÂî4IäÈÒØêIÊ3E6JCâÒòÄ6ÔWæØYYÔZWMICY6æ2ÎBà/XUÔÔ7EÜAGBâ2DS2IàLVVY3KÞô4ÂÚäÜÒÄÞêHM7ìHÎæ9+XÎZê7HGEMTNEàLDîLÌFèÆO3RDSFÎI6æ43+ìêò5ìHèOÎÈVHVÜÄ5ÊWTÎUVè3ì/ÎâJWUZäO57YðV1TôÄHK56Y4ÆCJTUæNKÄLYFèNVVZ6Ì+ð/LÆèîTôèYYäG3SæTðSØGÄLÈÞÎMÄÂRðìTèêH16ä2Bà3èXØÔè8ÄØÂSìJÆ/ÊPOKÄ2ZØE7KKKÌHDÞHÒLðÎ9Q+CK9àRÒòKJêÎìRÞðRJ67FGAîÚGØ1LI2ÌHQ94UC2ZV1BIA6TA196î69BRHèÞä5TÐUFQKÔV6èBSU1QT3VM35QM1Ü5A2QL/ØàC6W4ÌR8ÔàêA4R34AêæFEGBLJTHLÌUMÖèÆÜæâÞòUYîæDP8JòA5PC3ÌðÐÒÚTENÆê29GÒWRÎ2ðQILêððæÆÔÞOQLÌæ/Ø5ìÆKLðEY8ÄÆ0ÖKNèèHÜIWOîVÐMZ4XB6/ÚèAUO0YJG5ÆD+R+Æ8òÊAE6ôÆØÔ8FÞÊðGâK3S5XØLO2G/MàAÐÔVDJQ89A2ÖÔAèNì3â830äîGKØ7Üì9ÎÌêÂVÄÞäMâBÖVUÒGBÄDòM3ðFÞUCôÌEÎOW904ÌO/ÚB28ÂÔîL1êÔA+QÞQO0àQÊÂÖOHS/àÒ5êAòâÆÔUKìLFÊUNðH4äæÒäSÚ5SLUF/âÚÞNKîÂ6ÆBSÒÂAWä52Ð+ÜZî/SM32XESÖôØÐPYO6O1B38WØæÐ3ÈôÒè3EÚT6XS/VSSØîPFÎ2æQD6ÔD291îÜAà9îêÚL+èVIÒTTCÐðY+/àÌLØATZòF6ÔìG8Vâà4òæMN9âHTÈKÚY6ÊV8Ú9RÜ8PôUAÂÌòÂEêÊOòOÚâ1UTÖÚUHGÔJä4Þ6EòSRVWEðQÔJæ97/F4RæPL55ìOFM8ðè5AÂ32ÄXKIQ9YÄ1KOR8ÈMRÂÚY8UFÖäÐÄÆ+ÔBVZæYALGQ5ÐÄìÂØOÊLÖPG+àÞGâ3Ä9Ð/Lê2SHCÈÈôWAVÎASàNJ4MXâR6Tâ8IÐÆæQÊðDê3èIOØæ7IÆ7ÐÔAØW0FOFàÒìA5KGÌÞWEH9LìPC7AâZ/ÌÚÌOÄÔæ4Ôì0UH18TQ4ØÌòèAâ0ÔJX0257äØN7Ð3UGÜÆ1FÒORÜê5SÆâ7èR1ÎTHPCGI6ÄÌOPîTRKìÐÄÔWÎÊRÆWæY0Ò0+OEØÖ0VÐ15ìòPòQM0W/XÚÄàJ6Ô8ÈÔÐKäKêOS+PÂRW1GÄ2HVSÒà5UKÄè54ÚâSDäPÌTÄ7È73ò/TH0òGêÎòWðKVVT/ÚIPÆàG3ÂÒèÚÐÖ9WêÜàGêÌÜä4Rî8ÊðæÄEÖ76òGFÎTYÄ0ôFÈð4ÂBBRàØ8Y83îØGÄÔØ+WôÎJNCÌàÒBðÒØîDìCÄOèàZSIðÊ8ÎS7QÄ/è8OèÜÂÜEOHÄPNâìæXLò8Xè4G91äSK28FFRÄæYMVÊYIÔÒòâ5ÞÖDZBPWTÖÒHT8OFîOBÒÔêÎ9HÄòR22Ø84A1ÐÒäÒWTEH+Þ9VÔM47êÊRNKUäIDOòêG6èOôNIBÜ2îGÄQæ5+PZYU4ÚMXèDEØêJCC3U7ìòM+ZÔBÖÆQCäØÂZF/DJD4îè+IHW94äJ/æâKIÐ2PÔ67NÈØRRìðJÈîKEÜI+Üäèì25ìRÖFDÚZè7Ø6Ú/ÔF9V3EÔôôØ2ÒâEÂæÔPîÐ9/ÒØH4/0EORBÌðRYîYCÌZÊàLðK5LNìJÂB3PGì9YÌ6B5B8àUÞMFÆÖð5WèCØêÔQÎOEQY4G6êäIîÚØÒTìðXKêäRCSP2èAÆ6NRK7N4RU7YV7BÜ8ØYÔE7ÄZCZðIBFHÚK1ÜKKìÜÆ62+È3U6ÖO6ôæY0QòêJY2Ø2ìÒä7ÈâQIòÈ8Q8àÌâIB7PTÎNðN5Q1I/+ÄCä5Eè2Æ17òQÌÄÞÊONôÎ6D9VðèÜOCLêàÈ557Fî1ÌHDE0ðCð8YÔEFðôHÈÄä58àòKFTÎBì8êÒS7òFæIèÂH0ÜNHòîUO8XÆÈK3ÐBTDÎæNì/ASìàÔQðÊòDÎÄJÖNÒð7E6âQ2ÞÄÂ98NèXÒNìÈQO7ÒN1òÞ62îX4ØC80ÔÖIêÂÐHìÞ21GFÒ228ÈäKÆ4MZSK3D6òð7îQSYTÖÈæ4ÄÎO++ìLêIDPÎÒÊIäðH+F341äIDÈ8â8æÄÎðÈðÈRGÊÌEÎNâèàDÞÐFGGC08äÎH5ÜÂÊÂFÒI1ÐYBÎMæYHÊ35äMOÂÚ3OæUÌÆ6/AôÄMÐVàîêAMÎFàÆæÂäè+ÈTØÂPZ7GQ8WHYÈKÜA1Ê6ÄQÞCòSXÞXOÆTRGòV7+ðJVÌîÎMVQGYÒ+4SX+CæPìÊLANTRÆBðæîIRàÔDYðI6Ì5ZVàJEWXG9êCOâDÈ61YÔIJÜMÜJÆA0J7EÜÐ/ZW239Iè7CP5ÂÔèN3ÚðÌK+GÐê/EYPæV2HYFUô+YMW+ÜÂGLST+ÎâìAWD6C257/7KS0ÐîÞ8Cê/E9ÈÆÆPäPS0ÖâEÒ8W+òîðÐLÌì3AæULÒôFNOÚæ/YÈÚPÔTØð8SÆÊÞÜRæ4WäÆÔÄîT2YäMYðâIVT9ÞÜKX2âHIìàLÖICÐX2EîX5È2àGÎJCMàÌØPI3+ÐÄS72Zè93KÂìMê4HIVM5Æ6ðEÌPôÔ/0àKêÔÒO0ÈôôSØæêOF6ÂRKTI+TRàA1KDMYQGÖ8êCFQ5àQô/FêÌDJJæMÆ8SDWLôÆÜXâÜ9B6S0Ò6ÚÒ/BGV2ôS8+7ÚÌZÜRCGSôÊêR8ÎòAQ77S+0U/ÞÐÌòRTGJÐÊô57EYUôÄJ2F6V6Ø9ÎÔÔ//ÄIôG/1âÜZUJÜOOØØð4DF25ÆTðÞÔL9T4TQS8CôFAQ4GEè6ÚLòÚìêUÌVVÚÔ7êÒUÒXÒæPATIEÂðPÊ1ÐÆàÌQÜðYÊ5ìò99NQVJ6ÚXÈÂòìÚRâêJè84ðZÂÊ0CÚEHKØQÎ1Ô7Ä0XMâYôZìæUÆH0IGQOMPZäèBWPXÎÜPQCÌî4Z1ÌTÐUä4NÐACÜ1ÈêÞÖÂÈÆÈèYèH6ìKÔÔDTÞÞîÞÎôWäÆD757æJ/ÐBèPðYNòÂ7B2MNBÔ6ÄÜÜ4JÎTÖÂJØJäO0æâE/AÌ4539êØô4XÂ4Xô6âL/YòISàÊÞQTMæ11Ä+îOL45ÊCÎ6XN7èäTSOðR9ÈNLGWGPèKÐETNôZM2òÆFZèZÔZÖMîJâîàèCÌ49DN3CZÜCZÔæOØTZÔ8ÂÊÞZÆÆÔòÖÌ8ÊN6êÐôLÖ6XVBC8VZVÖÖIÊBAÂôOÖÈæÊì297DÎô+0BP8BNUSY40JÒ4æEIUZZ5AÆFF3ØJêNDÐ2Qè8QÂYYSPCÒî3X6ÄFÚÔâä/LÎÜ2Üò7DHVÔXARØAXÜNDMSÒRÎðFÚÊ70FÚKàÞÜ+ÎÎHÈâ9ÖèÞÚÔUÔàAÞYQÜÔMWê9QJÔÖXV9ÒÆGÔ7ôÂIÔÎLÜ0QÐCAÚMÎÂ+M+ØSØGSäJ84ØW4E4ÜòØD2èPZUCô8JÄX+Ræ/5ÆàXÔNHâðYÜ1ìRØQMH3ZØDÒ+Tô8ðO+QÆÜYIÒæôT0ØÚòQT/È6C3â3ÖÎL/FQSUÚ2ÐK2RÚMèW8VGZXæäÜÒìòðÆêèB5WGRYJMäGðÞÜN6ØCÐ0ÞÔ/9XKNDZ56E/88RNIEÌ4RòÊÎÌàÊÎXèîPÚG9125âK7KKKXZÞÜWDMEQì8êâòÈðÂAFêLÞWîÊAÔTO3UèNÊÆPN8YE3ôôRBÈ6Kêà60èîCèôÜ6ðôRàIòBZÂòNÖDòVâ+ìC6Ò/NìèKêVîÒKV7æÆI4NÈÈÊ6LÐÌÖÜØÖÖOðHUÈìWMÜYîQØ13ÊêHMH8ACÖèWôYâMVVÎôàAHOCò4Âäèâ993DSRÊNÒHKÜò8ÚKHôQæSWÌ8RÖèFHÊXÚÐJÚäÆH1ÆAYÄâMðØÞAÞÐJXDG+ØIàJRLì7âÐYVÔÎ0JôEÞÞÄRZYôZ5ØÌÐÖ+ÞÊ8ÖZ8ôÚQ49HÐ4AXîÌÐXUÐêYàØUN5ðZHìCâôLV9ÜQCîQNàÐÆÈØRÈäQZ1ÚN/æêÖÔOSH0J3SÐ/DîJÎTÔQÄGðÆòHÔÜFP2äðFIÜ04ìCÞÚD2JQCAÒì/ÌÜÐ89Ö5FFÐÔÐ+S1ÎCYX+8ÈèÂÔSòè4ðPIØPÂÂÎ9ÖDJèÞèØHòôPÎîE159æ2L9MØI9Gâ5U7UKÎêæ/ÜZÈð+KØÊOMN4ê446Sî+6Ê7Ä9Sè5/ÖÞÄUÞ01BÆL2B57/ÆNP7äTÔPL/IèâÐHÒSQF31ÊÊÄNîOÂÖW4=ÅÒAQHUARQVFÈTWÎVUU1QFVQUBAQZVBVIAWÎFTWQFÄVQNX;
+<?php
+namespace application\controller\Home;
+use framework\core\Factory;
+use framework\core\Controller;
+use framework\libraries\Sinaupload;
+/**
+ * é¦–é¡µæŽ§åˆ¶å™¨
+ */
+class IndexController extends Controller{
+
+	/**
+	 * æ˜¾ç¤ºé¦–é¡µé¢
+	 */
+	public function IndexAction(){
+		ob_start();
+		$res = Factory::M('PicModel');
+		$result = Factory::M('NavbarModel');
+		$prompt = configGet('register') == 'n' ? 'å…³é—­æ³¨å†Œï¼Œ' : '';
+		$prompt.= configGet('tourist')=='n' ? 'å…³é—­æ¸¸å®¢ä¸Šä¼ ï¼Œ' : '';
+		$record = configGet('record') != '' ? '<a href="http://www.miibeian.gov.cn/" target="_blank">'.configGet('record') .'</a>' : '';
+		$title = configGet('siteinfo')=='' ? configGet('title') : configGet('title') . ' - ' . configGet('siteinfo');
+		$username = isset($_SESSION['authen'])? $_SESSION['authen']['username'] : '';
+		$this->assign('AUTH',$username);
+		$this->assign('count',number_format($res->pic_count()));
+		$this->assign('title',$title);
+		$this->assign('prompt',$prompt);
+		$this->assign('record',$record);
+		$this->assign('footerinfo',str_replace('&#039;','\'',htmlspecialchars_decode(configGet('footerinfo'))));
+		$this->assign('register',configGet('register'));
+		$this->assign('description',configGet('description'));
+		$this->assign('keywords',configGet('keywords'));
+		$this->assign('explore',configGet('explore'));
+		$this->assign('tourist',$username=='' ? configGet('tourist'): '');
+		$this->assign('navbar',$result->navbar_queryAll('0','5',"WHERE hide = 'n'"));
+		$this->display('application/view/Home/index.php');
+		$out = ob_get_clean();
+		$out = str_replace('<span class="yright"></span><br>','<span class="yright">æœ¬ç«™ç”±è½»é‡çº§å›¾åºŠç¨‹åº<a href="https://img.52ecy.cn/" title="ä¸€ä¸ªäºŒæ¬¡å…ƒå›¾ç‰‡çš„é¢†åŸŸ">å¹»æƒ³é¢†åŸŸ</a>å¼ºåŠ›é©±åŠ¨</span><br>',$out);
+		$out = str_replace('<!--','',$out);
+		$out = str_replace('-->','',$out);
+		if(!strpos($out,'<span class="yright">æœ¬ç«™ç”±è½»é‡çº§å›¾åºŠç¨‹åº<a href="https://img.52ecy.cn/" title="ä¸€ä¸ªäºŒæ¬¡å…ƒå›¾ç‰‡çš„é¢†åŸŸ">å¹»æƒ³é¢†åŸŸ</a>å¼ºåŠ›é©±åŠ¨</span><br>')){
+			header("Location: https://img.52ecy.cn/service/copyright.html");
+			$out = '';
+			exit;
+		}
+		echo($out);
+		ob_end_flush();
+	}
+
+	/**
+	 * æŽ¢ç´¢ç•Œé¢
+	 */
+	public function ExploreAction(){
+		$this->Check();
+		$result = Factory::M('PicModel');
+		$res = Factory::M('NavbarModel');
+		$level = array('large','bmiddle','mw1024','mw690','small','square','thumb180','thumbnail');
+		$level = $level[$GLOBALS['appconfig']['level']];
+		$this->assign('AUTH',isset($_SESSION['authen'])? $_SESSION['authen']['username'] : '');
+		$this->assign('level',$level);
+		$this->assign('active','Explore');
+		$this->assign('title','æŽ¢ç´¢ - '.$GLOBALS['appconfig']['title']);
+		$this->assign('description',configGet('description'));
+		$this->assign('keywords',configGet('keywords'));
+		$this->assign('pic',$result->pic_rand(40));
+		$this->assign('navbar',$res->navbar_queryAll('0','5',"WHERE hide = 'n'"));
+		$this->display('application/view/Home/header.php');
+		$this->display('application/view/Home/explore.php');
+	}
+
+	/**
+	 * æœ€æ–°çš„
+	 */
+	public function NewestAction(){
+		$this->Check();
+		$level = array('large','bmiddle','mw1024','mw690','small','square','thumb180','thumbnail');
+		$level = $level[$GLOBALS['appconfig']['level']];
+		$this->assign('level',$level);
+		$this->assign('active','Newest');
+		$this->assign('title','æœ€æ–°çš„ - '.$GLOBALS['appconfig']['title']);
+		$this->assign('AUTH',isset($_SESSION['authen'])? $_SESSION['authen']['username'] : '');
+		$this->assign('navbar',Factory::M('NavbarModel')->navbar_queryAll('0','5',"WHERE hide = 'n'"));
+		$this->assign('description',configGet('description'));
+		$this->assign('keywords',configGet('keywords'));
+		$this->assign('pic',Factory::M('PicModel')->pic_newest(0,40));
+		$this->display('application/view/Home/header.php');
+		$this->display('application/view/Home/explore.php');
+	}
+
+	/**
+	 * éšæœºä¸€å¼ å›¾ç‰‡è¯¦æƒ…é¡µ
+	 */
+	public function RandAction(){
+		$this->Check();
+		$pid = Factory::M('PicModel')->pic_rand(1);
+		if ($pid!=array()) {
+			Jump(PATH_URL . $pid[0]['pid']);
+		}else{
+			Msg('æš‚æ—¶è¿˜æ²¡æœ‰å›¾ç‰‡ï¼','info');
+		}
+	}
+
+	/**
+	 * å›¾ç‰‡è¯¦æƒ…é¡µ
+	 */
+	public function DetailsAction(){
+		$this->Check();
+		$pid = isset($_GET['pid']) ? $_GET['pid'] : '';
+		if ($pid =='') {
+			Msg('å›¾ç‰‡ä¸å­˜åœ¨ï¼','info','å›¾ç‰‡æ‰¾ä¸åˆ°å’¯-.-');
+		}
+		$picdetails = Factory::M('PicModel')->pic_details($pid);
+		if (!$picdetails) {
+			Msg('å›¾ç‰‡ä¸å­˜åœ¨ï¼','info','å›¾ç‰‡æ‰¾ä¸åˆ°å’¯-.-');
+		}
+		$res = Factory::M('NavbarModel');
+		$userinfo = Factory::M('UserModel')->user_fetch($picdetails['uid']);
+		$level = array('large','bmiddle','mw1024','mw690','small','square','thumb180','thumbnail');
+		$level = $level[$GLOBALS['appconfig']['level']];
+		$this->assign('AUTH',isset($_SESSION['authen'])? $_SESSION['authen']['username'] : '');
+		$this->assign('level',$level);
+		$this->assign('active','Rand');
+		$this->assign('description',configGet('description'));
+		$this->assign('keywords',configGet('keywords'));
+		$this->assign('picid',$picdetails['pid']);
+		$this->assign('navbar',$res->navbar_queryAll('0','5',"WHERE hide = 'n'"));
+		$this->assign('title', $picdetails['pid'].' - '.$GLOBALS['appconfig']['title']);
+		$this->assign('user',$userinfo['username']);
+		$this->assign('portrait',$userinfo['photo']=='' ? PATH_URL.'application/view/Admin/images/author.jpg': PATH_URL.'upload/uid_'.$picdetails['uid'].'.jpg');
+		$this->assign('time',smartDate($picdetails['date']));
+		$this->display('application/view/Home/header.php');
+		$this->display('application/view/Home/details.php');
+	}
+
+	/**
+	 * ä¸‹æ‹‰æŽ¢ç´¢è¯·æ±‚å›¾ç‰‡æŽ¥å£
+	 */
+	public function RandomAction(){
+		$this->Check();
+		$result = Factory::M('PicModel');
+		$imgarr = $result->pic_rand(10);
+		$level = array('large','bmiddle','mw1024','mw690','small','square','thumb180','thumbnail');
+		$level = $level[$GLOBALS['appconfig']['level']];
+		$data = array();
+		foreach ($imgarr as $value) {
+			$data['src'][] = 'https://ws3.sinaimg.cn/' . $level . '/' . $value['pid'];
+		}
+		echo json_encode($data);
+	}
+
+	/**
+	 * ä¸‹æ‹‰æœ€æ–°çš„è¯·æ±‚å›¾ç‰‡æŽ¥å£
+	 */
+	public function NewestdownAction(){
+		$this->Check();
+		$page = isset($_GET['page']) ? ($_GET['page'] - 1) * 10 : '0';
+		$imgarr = Factory::M('PicModel')->pic_newest($page,10);
+		$level = array('large','bmiddle','mw1024','mw690','small','square','thumb180','thumbnail');
+		$level = $level[$GLOBALS['appconfig']['level']];
+		$data = array();
+		foreach ($imgarr as $value) {
+			$data['src'][] = 'https://ws3.sinaimg.cn/' . $level . '/' . $value['pid'];
+		}
+		echo json_encode($data);
+	}
+
+	/**
+	 * ä¸Šä¼ å›¾ç‰‡åˆ°æ–°æµª
+	 */
+	public function UploadAction() {
+		if (configGet('tourist')=='n') {
+			$this->checksession();
+		}
+		$infoArr = $this->BuildInfo($_FILES);
+		if ($infoArr) {
+			$res['code'] = '-1';
+			$res['url'] = '';	
+			$values = '';
+			$this->CookieSet();
+			$upload = new Sinaupload(configGet('cookie'));
+			foreach ($infoArr as $val) {
+			    $name = $val['name'];//å¾—åˆ°æ–‡ä»¶å
+			    if($val['size'] < 10*1024*1024){
+			        $type = strtolower(substr($name,strrpos($name,'.')+1));//å¾—åˆ°ä¸Šä¼ æ–‡ä»¶ç±»åž‹
+			        $allow_type = array('jpg','png','gif','jpeg');//å®šä¹‰å…è®¸ä¸Šä¼ ä¸ºç±»åž‹
+			        //åˆ¤æ–­æ–‡ä»¶ç±»åž‹æ˜¯å¦å…è®¸ä¸Šä¼ 
+			        if (in_array($type, $allow_type)){
+			            //åˆ¤æ–­æ˜¯å¦é€šè¿‡http postä¸Šä¼ 
+			            if (is_uploaded_file($val['tmp_name'])){
+			                $str = $upload->upload($val['tmp_name']);
+			                $str = json_decode($str,true);
+							if (!isset($str['data']['pics']['pic_1']['pid'])) {
+								$res['code'] = 'ä¸Šä¼ å¤±è´¥ï¼Œè¯·ç¨åŽé‡è¯•ï¼';
+							}else{
+								$uid = isset($_SESSION['authen']['uid']) ? $_SESSION['authen']['uid'] : '';
+								$values .= '(\''.$str['data']['pics']['pic_1']['pid'].'\',\''.$uid.'\',\''.time().'\',\''.getIp().'\'),';
+								$res['code'] = '0000';
+								$res['url'] .=  $upload->getImageUrl($str['data']['pics']['pic_1']['pid']) . '
+';
+							}
+			            }
+			        }
+			    }
+			}
+		}else{
+			$res['code'] = 'ä¸Šä¼ æ•°æ®æœ‰è¯¯ï¼';
+		}
+		$result = Factory::M('PicModel');
+		$result->pic_add(trim($values,','));
+		echo json_encode($res);
+	}
+
+	/**
+	 * æ›´æ–°cookie(æ–°æµªcookie24å°æ—¶æ•´å¤±æ•ˆï¼Œè¶…è¿‡20å°æ—¶åˆ™é‡æ–°èŽ·å–)
+	 */
+	private function CookieSet(){
+		if (time() - $GLOBALS['appconfig']['time'] > 20*3600) {
+			configSet(array('time'=>time(),'cookie'=>Sinaupload::login(configGet('username'),configGet('password'))));
+		}
+	}
+
+	/**
+	 * åˆ¤æ–­æŽ¢ç´¢ç•Œé¢æ˜¯å¦å¼€æ”¾
+	 * @return [type] [description]
+	 */
+	private function Check(){
+		if(configGet('explore')=='n') Msg('é¡µé¢æœªå¼€æ”¾ï¼','info');
+	}
+	
+	/**
+	 * å¤šæ–‡ä»¶ä¸Šä¼ è½¬å•æ–‡ä»¶æ•°ç»„
+	 */
+	private function BuildInfo(){
+		$i = 0;
+		foreach ($_FILES as $v){//ä¸‰ç»´æ•°ç»„è½¬æ¢æˆ2ç»´æ•°ç»„
+		    if(is_string($v['name'])){ //å•æ–‡ä»¶ä¸Šä¼ 
+		        $info[$i] = $v;
+		        $i++;
+		    }else{ // å¤šæ–‡ä»¶ä¸Šä¼ 
+		        foreach ($v['name'] as $key=>$val){//2ç»´æ•°ç»„è½¬æ¢æˆ1ç»´æ•°ç»„
+		            //å–å‡ºä¸€ç»´æ•°ç»„çš„å€¼ï¼Œç„¶åŽå½¢æˆå¦ä¸€ä¸ªæ•°ç»„
+		            //æ–°çš„æ•°ç»„çš„ç»“æž„ä¸ºï¼šinfo=>i=>('name','size'.....)
+		            $info[$i]['name'] = $v['name'][$key];
+		            $info[$i]['size'] = $v['size'][$key];
+		            $info[$i]['type'] = $v['type'][$key];
+		            $info[$i]['tmp_name'] = $v['tmp_name'][$key];
+		            $info[$i]['error'] = $v['error'][$key];
+		            $i++;
+		        }
+		    }
+		}
+		return $info;
+	} 
+
+	
+}
+
