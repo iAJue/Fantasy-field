@@ -33,7 +33,7 @@ class ConfigureController extends Controller{
 			'keywords' 		=> configGet('keywords'),
 			'description' 	=> configGet('description'),
 			'record' 		=> configGet('record'),
-			'footerinfo' 	=> htmlspecialchars_decode(configGet('footerinfo')),
+			'footerinfo' 	=> str_replace('&#039;','\'',htmlspecialchars_decode(configGet('footerinfo'))),
 			'username' 		=> configGet('username'),
 			'password'		=> configGet('password'),
 			'level' 		=> configGet('level'),
