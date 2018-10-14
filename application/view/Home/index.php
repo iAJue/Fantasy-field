@@ -11,9 +11,13 @@
     <meta name="generator" content="幻想领域">
     <link rel="icon" href="<?php echo PATH_VIEW;?>Home/images/favicon.ico">
     <title><?php echo $title;?></title>
-    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://v3.bootcss.com/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
-    <link href="https://v3.bootcss.com/examples/cover/cover.css" rel="stylesheet">
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+    	@-ms-viewport{width: device-width;}@-o-viewport{width: device-width;}@viewport{width: device-width;}
+    </style>
+    <style>
+    	a,a:focus,a:hover{color: #fff;}.btn-default,.btn-default:hover,.btn-default:focus{color: #333; text-shadow: none; background-color: #fff; border: 1px solid #fff;}/* * Base structure */html,body{height: 100%; background-color: #333;}body{color: #fff; text-align: center; text-shadow: 0 1px 3px rgba(0,0,0,.5);}/.site-wrapper{display: table; width: 100%; height: 100%; /* For at least Firefox */ min-height: 100%; -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5); box-shadow: inset 0 0 100px rgba(0,0,0,.5);}.site-wrapper-inner{display: table-cell; vertical-align: top;}.cover-container{margin-right: auto; margin-left: auto;}.inner{padding: 30px;}/* * Header */.masthead-brand{margin-top: 10px; margin-bottom: 10px;}.masthead-nav > li{display: inline-block;}.masthead-nav > li + li{margin-left: 20px;}.masthead-nav > li > a{padding-right: 0; padding-left: 0; font-size: 16px; font-weight: bold; color: #fff;  color: rgba(255,255,255,.75); border-bottom: 2px solid transparent;}.masthead-nav > li > a:hover,.masthead-nav > li > a:focus{background-color: transparent; border-bottom-color: #a9a9a9; border-bottom-color: rgba(255,255,255,.25);}.masthead-nav > .active > a,.masthead-nav > .active > a:hover,.masthead-nav > .active > a:focus{color: #fff; border-bottom-color: #fff;}@media (min-width: 768px){.masthead-brand{float: left;} .masthead-nav{float: right;}}.cover{padding: 0 20px;}.cover .btn-lg{padding: 10px 20px; font-weight: bold;}.mastfoot{color: #999;  color: rgba(255,255,255,.5);}@media (min-width: 768px){ .masthead{position: fixed; top: 0;} .mastfoot{position: fixed; bottom: 0;}  .site-wrapper-inner{vertical-align: middle;}  .masthead, .mastfoot, .cover-container{width: 100%; }}@media (min-width: 992px){.masthead, .mastfoot, .cover-container{width: 700px;}}
+    </style>
     <link rel="stylesheet" href="<?php echo PATH_VIEW;?>Home/style/hwLayer.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo PATH_VIEW;?>Home/style/main.css">
 	<link href="<?php echo PATH_VIEW;?>Home/style/styles.imageuploader.css" rel="stylesheet" type="text/css">
@@ -105,9 +109,24 @@
 			</div>
 		</div>
 	</div>
-    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="https://v3.bootcss.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <script>
+    	(function () {
+  'use strict';
+
+  if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+    var msViewportStyle = document.createElement('style')
+    msViewportStyle.appendChild(
+      document.createTextNode(
+        '@-ms-viewport{width:auto!important}'
+      )
+    )
+    document.querySelector('head').appendChild(msViewportStyle)
+  }
+
+})();
+    </script>
     <script src="<?php echo PATH_VIEW;?>Home/js/jquery.hwLayer.js"></script>
     <script src="<?php echo PATH_VIEW;?>Home/js/jquery.imageuploader.js"></script>
 	<script src="<?php echo PATH_VIEW;?>Home/js/main.js"></script>
