@@ -11,7 +11,7 @@
     <meta name="generator" content="幻想领域">
     <link rel="icon" href="<?php echo PATH_VIEW;?>Home/images/favicon.ico">
     <title><?php echo $title;?></title>
-    <link href="https://cdn.staticfile.org/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <style>
     	@-ms-viewport{width: device-width;}@-o-viewport{width: device-width;}@viewport{width: device-width;}
     </style>
