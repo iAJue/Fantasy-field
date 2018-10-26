@@ -1,3 +1,4 @@
+# 安装在一级目录
 <IfModule mod_rewrite.c>
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
@@ -5,3 +6,13 @@ RewriteCond %{REQUEST_FILENAME} !-f
 Rewritebase /index.php
 RewriteRule ^(.*)$ /index.php?/$1 [L]
 </IfModule>
+
+# 安装在二级目录,默认二级目录名称为 img, 可自行根据自身情况修改
+
+#<IfModule mod_rewrite.c>
+#RewriteEngine on
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-f
+#Rewritebase /index.php
+#RewriteRule ^(.*)$ /img/index.php?/$1 [L]
+#</IfModule>
