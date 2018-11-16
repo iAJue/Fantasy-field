@@ -5,7 +5,8 @@ namespace framework\database;
 */
 class pdo extends DbInterface{
 	
-	function __construct(argument){
-		# code...懒.....
-	}
+	#function __construct(argument){
+	#	# code...懒.....
+	#	console.log(a);
+	#}
 }
