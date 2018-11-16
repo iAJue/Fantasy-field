@@ -27,7 +27,7 @@
 		    	<tr>
 		    		<td>开启注册验证</td>
 		    		<td><input type="checkbox" name="verification" id="verification" lay-filter="verification" lay-skin="switch" lay-text="是|否"></td>
-		    		<td pc>是否需要注册激活才能登录，开启后未激活账号将无法登陆</td>
+		    		<td pc>是否需要注册激活才能登录，开启后未激活账号将无法登录</td>
 		    	</tr>
 		    	<tr>
 		    		<td>开启探索</td>
@@ -37,7 +37,7 @@
 		    	<tr>
 		    		<td>注册限制</td>
 		    		<td><input type="text" class="layui-input limitip" lay-verify="number" placeholder="请输入注册数量"></td>
-		    		<td pc>一个ip在24小时内允许注册的数量</td>
+		    		<td pc>一个IP在24小时内允许注册的数量</td>
 		    	</tr>
 		    	<tr>
 		    		<td>站点标题</td>
