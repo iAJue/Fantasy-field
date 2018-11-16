@@ -110,7 +110,7 @@
 		</div>
 	</div>
     <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script>
     	(function () {
   'use strict';
