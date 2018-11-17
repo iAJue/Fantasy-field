@@ -63,6 +63,6 @@
 
 ### 下载地址
 
-老规矩，Download ZIP 后上传至你的服务器解压缩即可部署：[https://github.com/Miya-Yukarin/Fantasy-field][2]
+老规矩，Download ZIP 后上传至你的服务器解压缩即可部署：[https://github.com/Miya-Yukarin/Fantasy-field]
 
   [1]: https://www.52ecy.cn/post-76.html
