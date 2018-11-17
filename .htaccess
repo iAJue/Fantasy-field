@@ -13,6 +13,6 @@ RewriteRule ^(.*)$ /index.php?/$1 [L]
 #RewriteEngine on
 #RewriteCond %{REQUEST_FILENAME} !-d
 #RewriteCond %{REQUEST_FILENAME} !-f
-#Rewritebase /index.php
+#Rewritebase /img/index.php
 #RewriteRule ^(.*)$ /img/index.php?/$1 [L]
 #</IfModule>
