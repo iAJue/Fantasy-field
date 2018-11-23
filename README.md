@@ -32,6 +32,10 @@
 
 如果还说有一点什么成绩那就是还补充了这个文档.很惭愧,就只做了三件微小的工作,谢谢大家
 
+### 修改部分详情(2018.11.23)
+
+1. 修改所有页面的库 ~~只做一个主页还是不行哎~~
+
 ### 修改部分详情(2018.11.17)
 
 1. 修复掉失效部分的布局
@@ -63,6 +67,6 @@
 
 ### 下载地址
 
-老规矩，Download ZIP 后上传至你的服务器解压缩即可部署：[https://github.com/Miya-Yukarin/Fantasy-field][2]
+老规矩，Download ZIP 后上传至你的服务器解压缩即可部署：[https://github.com/Miya-Yukarin/Fantasy-field]
 
   [1]: https://www.52ecy.cn/post-76.html
