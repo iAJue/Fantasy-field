@@ -11,7 +11,7 @@
     <meta name="generator" content="幻想领域">
     <link rel="icon" href="<?php echo PATH_VIEW;?>Home/images/favicon.ico">
     <link rel="stylesheet" type="text/css" href="<?php echo PATH_VIEW;?>Home/style/main.css">
-    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js" rel="stylesheet">
     <title><?php echo $title;?></title>
   </head>
   <body>
