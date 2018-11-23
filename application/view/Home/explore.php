@@ -6,9 +6,9 @@
             </div>
       </div>
     </div>
-    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
     <script src="<?php echo PATH_VIEW;?>Home/js/jquery.waterfall.js"></script> 
-    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script>
     var page = 5;
     $("#div1").waterfall({
