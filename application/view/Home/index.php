@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="<?php echo $keywords;?>" />
     <meta name="description" content="<?php echo $description;?>" />
+    <meta name="referrer" content="no-referrer">
     <meta name="author" content="阿珏博客">
     <meta name="generator" content="幻想领域">
     <link rel="icon" href="<?php echo PATH_VIEW;?>Home/images/favicon.ico">
