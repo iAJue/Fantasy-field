@@ -12,6 +12,7 @@
 ## 外链至自己网站的方法
 在网页顶部（HTML的话在head内，PHP请自行寻找自己网站对应的`header.php`）增加一条meta标签：
 > `<meta name="referrer" content="no-referrer">`
+
 即可正常使用
 注意：目前新浪的防盗链已经开始收缩，这方法只能暂时使用，新浪可能会不定期继续收缩，到时候此方法可能会失效
 
